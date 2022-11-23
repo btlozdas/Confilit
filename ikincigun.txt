@@ -10,3 +10,5 @@ Git GitHup ikinci gun ucunuc  deneme
 MASTER BRANCH YENI EKLEME
 Git GitHup ikinci gun ucunuc  deneme betul branch ilk deneme
 
+Git GitHup ikinci gun ucunuc  deneme
+Git GitHup ikinci gun ikinci  deneme
